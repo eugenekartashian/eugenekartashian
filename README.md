@@ -1,6 +1,5 @@
-
-<h1 align="center">Hello there 👋, My name is Eugene!</h1>
-<h3 align="center">I'm a frontend developer.</h3>
+<h1 align="center">Hello there 👋, my name is Eugene!</h1>
+<h3 align="center">I'm a markup/frontend developer.</h3>
 
 <h3 align="left">🌱 I’m currently learning **React, Typescript**</h3>
 
