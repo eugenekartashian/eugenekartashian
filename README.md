@@ -10,7 +10,7 @@
 
 <h3 align="left">🌱 I’m currently learning React, Typescript.</h3>
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Languages & tools I use:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/html.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/css.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/sass.svg" alt="sass" width="40" height="40"/> </a>
