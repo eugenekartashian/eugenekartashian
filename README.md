@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 👋, my name is Eugene!</h1>
-<h3 align="center">I'm a markup/frontend developer.</h3>
+<h1 align="center">Hello there 👋, I'm Eugene and I'm <s>an alcoh...</s> ...a Frontend developer!</h1>
 
 <h3 align="left">📫 Contact me:</h3>
 
