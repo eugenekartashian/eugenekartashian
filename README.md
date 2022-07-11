@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, my name is Eugene!</h1>
 <h3 align="center">I'm a markup/frontend developer.</h3>
 
-<h3 align="left">🌱 I’m currently learning **React, Typescript**</h3>
+<h3 align="left">🌱 I’m currently learning <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/react.svg" alt="react" width="40" height="40"/></h3>
 
 <h3 align="left">📫 Contact me:</h3>
 
