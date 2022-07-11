@@ -1,14 +1,14 @@
 <h1 align="center">Hello there 👋, my name is Eugene!</h1>
 <h3 align="center">I'm a markup/frontend developer.</h3>
 
-<h3 align="left">🌱 I’m currently learning React, Typescript.</h3>
-
 <h3 align="left">📫 Contact me:</h3>
 
 <p align="left">
 <a href="https://t.me/eugenekartashian" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/tg.svg" alt="@eugenekartashian" height="30" width="40" /></a>
 <a href="mailto:e.kartashian@gmail.com" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/mail.svg" alt="e.kartashian@gmail.com" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">🌱 I’m currently learning React, Typescript.</h3>
 
 <h3 align="left">Languages & Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/html.svg" alt="html5" width="40" height="40"/> </a>
