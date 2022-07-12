@@ -22,6 +22,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/ai.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/jest.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/react.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/mui.svg" alt="mui" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/redux.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 
