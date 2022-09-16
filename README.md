@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋 I'm Eugene and I'm <s>an alcoh...</s> ...a Frontend developer!</h1>
+<h1 align="center">Hi there👋 I'm Eugene and I'm <s>an alcoh...</s> Frontend developer!</h1>
 
 <h3 align="left">📫 Contact me:</h3>
 
