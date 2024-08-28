@@ -11,6 +11,6 @@
 <h3 align="left">🌱 Currently I’m learning React and Typescript.</h3>
 
 <h3 align="left">Languages & tools I use:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,tailwind,materialui,git,gulp,webpack,figma,jest,nodejs)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,tailwind,materialui,git,gulp,webpack,figma,jest,nodejs" />
 
 
