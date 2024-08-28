@@ -4,7 +4,7 @@
 <h3 align="left">📫 Contact me:</h3>
 
 <p align="left">
-<a href="https://t.me/eugenekartashian" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/tg.svg" alt="@eugenekartashian" height="48" width="48" /></a>
+<a href="https://t.me/eugenekartashian" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/tg.svg" alt="@eugenekartashian" height="35" width="35" /></a>
 <a href="mailto:e.kartashian@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
