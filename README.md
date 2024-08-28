@@ -1,4 +1,5 @@
-<h1 align="center">Hi there👋 I'm Eugene and I'm <s>an alcoh...</s> Frontend developer!</h1>
+
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ABF7&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Eugene+and+I'm+an+alcoh...+;Frontend+developer!" alt="Typing SVG" /></h1>
 
 <h3 align="left">📫 Contact me:</h3>
 
