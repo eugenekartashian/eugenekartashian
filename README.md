@@ -4,13 +4,13 @@
 <h3 align="left">📫 Contact me:</h3>
 
 <p align="left">
-<a href="https://t.me/eugenekartashian" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/tg.svg" alt="@eugenekartashian" height="30" width="40" /></a>
+<a href="https://t.me/eugenekartashian" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/tg.svg" alt="@eugenekartashian" height="48" width="48" /></a>
 <a href="mailto:e.kartashian@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <h3 align="left">🌱 Currently I’m learning React and Typescript.</h3>
 
 <h3 align="left">Languages & tools I use:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,tailwind,materialui,git,gulp,webpack,figma,jest,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,redux,tailwind,materialui,git,gulp,webpack,figma,ps,ai,jest,nodejs" />
 
 
