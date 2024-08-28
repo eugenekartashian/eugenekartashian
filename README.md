@@ -7,7 +7,7 @@
 <a href="mailto:e.kartashian@gmail.com" target="_blank"><img align="center" src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/mail.svg" alt="e.kartashian@gmail.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🌱 I’m learning React and Typescript now.</h3>
+<h3 align="left">🌱 Currently I’m learning React and Typescript.</h3>
 
 <h3 align="left">Languages & tools I use:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/eugenekartashian/eugenekartashian/blob/main/icons/html.svg" alt="html5" width="40" height="40"/> </a>
