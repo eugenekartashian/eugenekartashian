@@ -10,8 +10,8 @@
 
 <h3 align="left">🌱 Currently I’m learning React and Typescript.</h3>
 
-<h3 align="left">Languages & tools I use:
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,redux,tailwind,materialui,git,gulp,webpack,figma,ps,ai,jest,nodejs" />
-</h3>
+<h3 align="left">Languages & tools I use:</h3>
+<p><img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,redux,tailwind,materialui,git,gulp,webpack,figma,ps,ai,jest,nodejs" /></p>
+
 
 
