@@ -8,8 +8,6 @@
 <a href="mailto:e.kartashian@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-<h3 align="left">🌱 Currently I’m learning Typescript.</h3>
-
 <h3 align="left">Languages & tools I use:</h3>
 <p><img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,redux,tailwind,materialui,git,gulp,webpack,figma,ps,ai,jest,nodejs" /></p>
 
