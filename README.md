@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages & tools I use:</h3>
-<p><img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,redux,tailwind,materialui,git,gulp,webpack,figma,ps,ai,jest,nodejs" /></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,redux,tailwind,materialui,git,gulp,webpack,vite,figma,ps,ai,jest,nodejs" /></p>
 
 
 
